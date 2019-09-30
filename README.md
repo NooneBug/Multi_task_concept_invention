@@ -1,7 +1,9 @@
 INSTALLATION
 
 You need to have installed jupyter notebook.
+
 I advice you to create an enviroment (virtualenv or conda)
+
 Setup your enviroment with `pip install -r req.txt`
 
 
