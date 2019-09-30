@@ -1,5 +1,0 @@
-numpy
-keras
-gensim
-pickle
-matplotlib
