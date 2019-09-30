@@ -1,3 +1,9 @@
+INSTALLATION
+
+You need to have installed jupyter notebook.
+Setup your enviroment with `pip install -r requirements.txt`
+
+
 The notebooks are divided basing on their purpose, to obtain a proper and correct model which can replicate the experiments of the paper, the notebooks are to be consulted (and surely, runned) in the order showed below:
 
 DATA PREPARATION
